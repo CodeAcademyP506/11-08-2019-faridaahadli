@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\cSharp1Task\cSharp1Task\bin\Debug\cSharp1Task.exe.config
+C:\Users\HP\source\repos\cSharp1Task\cSharp1Task\bin\Debug\cSharp1Task.exe
+C:\Users\HP\source\repos\cSharp1Task\cSharp1Task\bin\Debug\cSharp1Task.pdb
+C:\Users\HP\source\repos\cSharp1Task\cSharp1Task\obj\Debug\cSharp1Task.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\cSharp1Task\cSharp1Task\obj\Debug\cSharp1Task.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\cSharp1Task\cSharp1Task\obj\Debug\cSharp1Task.exe
+C:\Users\HP\source\repos\cSharp1Task\cSharp1Task\obj\Debug\cSharp1Task.pdb
+C:\Users\HP\Desktop\cSharp1Task\cSharp1Task\obj\Debug\cSharp1Task.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\cSharp1Task\cSharp1Task\obj\Debug\cSharp1Task.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\cSharp1Task\cSharp1Task\obj\Debug\cSharp1Task.exe
+C:\Users\HP\Desktop\cSharp1Task\cSharp1Task\obj\Debug\cSharp1Task.pdb
+C:\Users\HP\Desktop\cSharp1Task\cSharp1Task\bin\Debug\cSharp1Task.exe.config
+C:\Users\HP\Desktop\cSharp1Task\cSharp1Task\bin\Debug\cSharp1Task.exe
+C:\Users\HP\Desktop\cSharp1Task\cSharp1Task\bin\Debug\cSharp1Task.pdb
